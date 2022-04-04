@@ -1,6 +1,6 @@
 ## gyooo 🎴
 
-🎭 Ceo of  [me](https://gyooo.rk)  |<br>
+🎭 Ceo of  [me](https://gyooo.tk)  |<br>
 🎩 Normal guy who like [music](https://open.spotify.com/playlist/7bAC0NoIfBewu3xxYXiGuU?si=809d0d7ddd3d4a6a)  |<br>
 💣 Bot developer of [Leopardi Bot](https://discord.com/api/oauth2/authorize?client_id=951477891680567327&permissions=8&scope=bot) (offilne) |<br>
 

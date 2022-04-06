@@ -4,7 +4,11 @@
 🎩 Normal guy who like [music](https://open.spotify.com/playlist/7bAC0NoIfBewu3xxYXiGuU?si=809d0d7ddd3d4a6a)  |<br>
 💣 Bot developer of [Leopardi Bot](https://discord.com/api/oauth2/authorize?client_id=951477891680567327&permissions=8&scope=bot) (offilne) |<br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/663466224365338624)](https://discord.com/users/663466224365338624)
+---
+
+<a href="https://discord.com/users/663466224365338624">
+  <img src="https://lanyard-profile-readme.vercel.app/api/663466224365338624?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Nah%20I'm%20just%20alone..." align="right" />
+</a>
 
 ## 🍷 Who I am?
 
@@ -14,6 +18,8 @@ I'm a chillt boy, I'm 16 years old and I don't know how to do bio. <br>
 lol
 
 ## ☣ Skills (spoiler:I don't have)
+
+<img align="right" alt="No" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950107888649637959/959104623245950997/a_76ec56dfd54c63e7160dcf6f1be88ad2_1.gif?size=4096">
 
 - Database I use **![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)** **![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)**
 
@@ -31,7 +37,7 @@ lol
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="No" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950107888649637959/959104623245950997/a_76ec56dfd54c63e7160dcf6f1be88ad2_1.gif?size=4096">
+  
 </div>
   
   ##
@@ -44,6 +50,7 @@ lol
   <a href = "cicciogamer89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
 
@@ -53,3 +60,4 @@ lol
 - Server Discord: https://dsc.gg/ezss
 - Mail: coattodeitalia@gmail.com
 - Credit Readme.md idea from [@UsboKirishima](https://github.com/UsboKirishima)<br>
+

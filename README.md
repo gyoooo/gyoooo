@@ -56,7 +56,7 @@ lol
 
 ## 📬 Social
 
-- Discord: [gyooo.#7777](https://discord.com/users/663466224365338624)
-- Server Discord: https://dsc.gg/ezss
+- Discord: [gyooo.#0618](https://discord.com/users/663466224365338624)
+- Server Discord: https://dsc.gg/gyoooshop
 - Mail: coattodeitalia@gmail.com
 
